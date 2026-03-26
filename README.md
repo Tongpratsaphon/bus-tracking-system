@@ -42,6 +42,12 @@ This project is a Flutter mobile application developed as a personal project to 
 
 ---
 
+## 📱 Screenshots
+
+![Map](assets/mappcc.jpg)
+![Bus](assets/bus-6.png)
+![UI](assets/image.png)
+
 ## 💡 Skills Demonstrated
 
 * Flutter Development
@@ -85,8 +91,6 @@ API_KEY=your_api_key_here
 ```
 flutter run
 ```
-
----
 
 ## 📊 Project Type
 
