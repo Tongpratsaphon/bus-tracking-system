@@ -2,54 +2,44 @@
 
 ## 📌 Overview
 
-This project is a mobile application developed using Flutter as part of my full-stack development practice. The system is designed to simulate a real-world bus tracking application with multiple modules, including user interaction, navigation, and data handling.
+This project is a full-stack bus tracking system consisting of a mobile application and backend services. The mobile application is developed using Flutter, while the backend is built with PHP and PostgreSQL, providing RESTful APIs for real-time data handling and tracking.
 
 ---
 
 ## 🎯 Objective
 
-* To develop a scalable mobile application using Flutter
-* To apply state management using Provider
-* To understand application structure and modular design
-* To prepare for full-stack system integration
+* To develop a full-stack system with web, mobile, and backend integration
+* To implement RESTful APIs and real-time data communication
+* To practice system design and scalable architecture
 
 ---
 
 ## 👨‍💻 My Role
 
-* Developed the mobile application using Flutter and Dart
-* Designed UI and navigation using BottomNavigationBar
-* Implemented state management using Provider
-* Structured the project into modular components for scalability
+* Developed mobile application using Flutter and Dart
+* Developed backend APIs using PHP and PostgreSQL
+* Integrated frontend and backend for real-time tracking
+* Designed database schema and handled data queries
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Flutter
-* Dart
-* Provider
-* flutter_dotenv
+* Flutter (Mobile)
+* PHP (Backend)
+* PostgreSQL (Database)
+* Google Maps API
+* Provider (State Management)
+* Docker & Railway (Deployment)
 
 ---
 
 ## 📱 Features
 
-* 🏠 Home Page
-* ⏰ Time Management Page
-* 🚌 Bus Tracking Interface
-* 🔐 Login System (UI)
-* 📍 Location Handling
-
----
-
-## 💡 Skills Demonstrated
-
-* Mobile Application Development (Flutter)
-* State Management (Provider)
-* UI/UX Design (Basic)
-* Application Structure & Modularity
-* Problem Solving
+* 🚌 Real-time bus tracking
+* 📍 Location visualization with Google Maps
+* 🔐 Role-based authentication (user, admin, driver)
+* 📊 Dynamic data from backend APIs
 
 ---
 
@@ -77,24 +67,16 @@ flutter run
 Create `.env` file:
 
 ```
-API_KEY=your_api_key_here
+API_BASE_URL=your_api_url
 ```
-
----
-
-## 📊 Project Type
-
-* Personal Project
-* Educational Project
 
 ---
 
 ## 🔮 Future Improvements
 
-* Integrate with backend API (Node.js / Firebase)
-* Implement real-time tracking system
-* Add authentication system with database
-* Improve UI/UX design
+* Improve real-time tracking performance
+* Enhance authentication system
+* Optimize backend performance and database queries
 
 ---
 
