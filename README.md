@@ -1,85 +1,113 @@
-# 🚍 Bus Tracking System
+# 🚌 Bus Tracking System (Data-Driven Application)
 
 ## 📌 Overview
+This project is a data-driven bus tracking system that integrates real-time GPS data with user activity to monitor bus routes, estimate arrival times (ETA), and analyze system usage.
 
-This project is a full-stack bus tracking system consisting of a mobile application and backend services. The mobile application is developed using Flutter, while the backend is built with PHP and PostgreSQL, providing RESTful APIs for real-time data handling and tracking.
+The system focuses on transforming raw location and user data into actionable insights to support transportation planning and decision-making.
 
 ---
 
 ## 🎯 Objective
-
-* To develop a full-stack system with web, mobile, and backend integration
-* To implement RESTful APIs and real-time data communication
-* To practice system design and scalable architecture
+- Analyze real-time GPS and user data to improve transportation efficiency  
+- Identify peak usage periods and user behavior patterns  
+- Estimate arrival times (ETA) using location data  
+- Support data-driven decision-making through dashboards and analytics  
 
 ---
 
-## 👨‍💻 My Role
-
-* Developed mobile application using Flutter and Dart
-* Developed backend APIs using PHP and PostgreSQL
-* Integrated frontend and backend for real-time tracking
-* Designed database schema and handled data queries
+## 📊 Data Analysis & Insights
+- Analyzed user activity to identify peak usage periods  
+- Monitored trip frequency and demand patterns  
+- Estimated arrival times using GPS-based calculations  
+- Provided insights to improve system efficiency and scheduling  
 
 ---
 
 ## 🛠️ Tech Stack
-
-* Flutter (Mobile)
-* PHP (Backend)
-* PostgreSQL (Database)
-* Google Maps API
-* Provider (State Management)
-* Docker & Railway (Deployment)
+- **Database:** PostgreSQL  
+- **Backend:** PHP (RESTful APIs)  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Data Visualization:** Power BI  
+- **Other:** GPS Data, Google Maps API  
 
 ---
 
-## 📱 Features
+## 📊 Key Features
+- 📍 Real-time GPS tracking  
+- ⏱️ ETA (Estimated Time of Arrival) prediction  
+- 👥 User behavior analysis  
+- 📊 Dashboard for monitoring system usage  
+- 💺 Seat reservation system  
 
-* 🚌 Real-time bus tracking
-* 📍 Location visualization with Google Maps
-* 🔐 Role-based authentication (user, admin, driver)
-* 📊 Dynamic data from backend APIs
+---
+
+## 🖼️ System Screenshots
+
+### 📍 Bus Tracking
+![Tracking](images/tracking.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 💺 Seat Reservation
+![Seat](images/seat.png)
+
+---
+
+## 📂 Project Structure# 🚌 Bus Tracking System (Data-Driven Application)
+
+## 📌 Overview
+This project is a data-driven bus tracking system that integrates real-time GPS data with user activity to monitor bus routes, estimate arrival times (ETA), and analyze system usage.
+
+The system focuses on transforming raw location and user data into actionable insights to support transportation planning and decision-making.
+
+---
+
+## 🎯 Objective
+- Analyze real-time GPS and user data to improve transportation efficiency  
+- Identify peak usage periods and user behavior patterns  
+- Estimate arrival times (ETA) using location data  
+- Support data-driven decision-making through dashboards and analytics  
+
+---
+
+## 📊 Data Analysis & Insights
+- Analyzed user activity to identify peak usage periods  
+- Monitored trip frequency and demand patterns  
+- Estimated arrival times using GPS-based calculations  
+- Provided insights to improve system efficiency and scheduling  
+
+---
+
+## 🛠️ Tech Stack
+- **Database:** PostgreSQL  
+- **Backend:** PHP (RESTful APIs)  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Data Visualization:** Power BI  
+- **Other:** GPS Data, Google Maps API  
+
+---
+
+## 📊 Key Features
+- 📍 Real-time GPS tracking  
+- ⏱️ ETA (Estimated Time of Arrival) prediction  
+- 👥 User behavior analysis  
+- 📊 Dashboard for monitoring system usage  
+- 💺 Seat reservation system  
+
+---
+
+## 🖼️ System Screenshots
+
+### 📍 Bus Tracking
+![Tracking](images/tracking.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 💺 Seat Reservation
+![Seat](images/seat.png)
 
 ---
 
 ## 📂 Project Structure
-
-```
-lib/
-├── main.dart
-├── home.dart
-├── time.dart
-├── buspage.dart
-├── login.dart
-├── Locationprovider.dart
-```
-
----
-
-## 🚀 Getting Started
-
-```bash
-flutter pub get
-flutter run
-```
-
-Create `.env` file:
-
-```
-API_BASE_URL=your_api_url
-```
-
----
-
-## 🔮 Future Improvements
-
-* Improve real-time tracking performance
-* Enhance authentication system
-* Optimize backend performance and database queries
-
----
-
-## 👨‍💻 Developer
-
-Pratsaphon Yoddamnern
