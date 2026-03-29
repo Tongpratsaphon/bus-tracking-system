@@ -3,23 +3,23 @@
 ## 📌 Overview
 This project is a data-driven bus tracking system that integrates real-time GPS data with user activity to monitor bus routes, estimate arrival times (ETA), and analyze system usage.
 
-The system focuses on transforming raw location and user data into actionable insights to support transportation planning and decision-making.
+The system transforms raw location and user data into actionable insights to support transportation planning and decision-making.
 
 ---
 
 ## 🎯 Objective
 - Analyze real-time GPS and user data to improve transportation efficiency  
 - Identify peak usage periods and user behavior patterns  
-- Estimate arrival times (ETA) using location data  
-- Support data-driven decision-making through dashboards and analytics  
+- Estimate arrival times (ETA) using GPS data  
+- Support data-driven decision-making through dashboards  
 
 ---
 
 ## 📊 Data Analysis & Insights
-- Analyzed user activity to identify peak usage periods  
-- Monitored trip frequency and demand patterns  
+- Identified peak usage periods based on user activity  
+- Analyzed trip frequency and demand patterns  
 - Estimated arrival times using GPS-based calculations  
-- Provided insights to improve system efficiency and scheduling  
+- Improved system visibility using dashboards  
 
 ---
 
@@ -44,13 +44,13 @@ The system focuses on transforming raw location and user data into actionable in
 ## 🖼️ System Screenshots
 
 ### 📍 Bus Tracking
-![Tracking](images/tracking.png)
+![Tracking](assets/tracking.png)
 
 ### 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ### 💺 Seat Reservation
-![Seat](images/seat.png)
+![Seat](assets/seat.png)
 
 ---
 
